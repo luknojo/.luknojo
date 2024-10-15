@@ -1,5 +1,5 @@
 
-### Olá, muito prazer! Eu sou João Lucas 👋
+### Olá, muito prazer! Eu sou Luk 👋
 
 ![luk GitHub stats](https://github-readme-stats.vercel.app/api?username=luknojo&show_icons=true&bg_color=00000000)
 
